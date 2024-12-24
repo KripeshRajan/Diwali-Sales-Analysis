@@ -29,19 +29,15 @@ The following Python libraries are required to run the notebook:
 ## Visualizations
 
 - **Distribution of Gender**
-- 
 ![download](https://github.com/user-attachments/assets/49b72067-d5ec-4ddc-b5a9-d82e887dfb31)
 
 - **Spending patterns by Age Group**
-- 
 ![output_25_0](https://github.com/user-attachments/assets/e1f7bf17-0ede-4e81-b747-c8023af46481)
 
-- **Top 10 States with highest number of orders**
-- 
+- **Top 10 States with highest number of orders** 
 ![output_29_0](https://github.com/user-attachments/assets/8fe582af-1eaa-41a4-b395-c80f01946ed1)
 
 - **Customer spending by Gender and Marital Status**
-- 
 ![output_37_0](https://github.com/user-attachments/assets/8f484dd6-3a73-450c-95c9-91971d32eae4)
 
 - **Spending trends across different Occupations**
@@ -49,5 +45,4 @@ The following Python libraries are required to run the notebook:
 ![output_42_0](https://github.com/user-attachments/assets/82c5a058-521b-486d-9215-65404e0c6c0e)
 
 - **Spending by Product Category**
-- 
 ![output_48_0](https://github.com/user-attachments/assets/613bcbd7-fbb9-4ca6-8bba-ba0adf11b474)
