@@ -5,8 +5,8 @@ The Diwali Sales Analysis project explores customer purchasing behaviors and tre
 
 ## Project Files
 
-- **Diwali_sales_Analysis.ipynb**: Contains the code for data preprocessing, analysis, and visualization.
-- **Diwali_sales_Analysis.pdf**: A detailed report summarizing the findings.
+- **Diwali_sales_Analysis-01.ipynb**: Contains the code for data preprocessing, analysis, and visualization.
+- **Diwali_sales_Analysis_01.pdf**: A detailed report summarizing the findings.
 
 
 ## Dependencies
