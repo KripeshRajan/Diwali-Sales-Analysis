@@ -1,7 +1,7 @@
 
 # Diwali Sales Analysis
 
-The Diwali Sales Analysis project explores customer purchasing behaviors and trends during the `Diwali season` using a dataset of `11,251` entries. The analysis uncovers patterns in demographics, spending habits, and product preferences, providing actionable insights for businesses.
+The Diwali Sales Analysis project explores customer purchasing behaviors and trends during the Diwali season using a dataset of `11,251` entries. Through exploratory data analysis using Python libraries, the analysis uncovers patterns in demographics, spending habits, and product preferences, providing actionable insights for businesses.
 
 ## Project Files
 
