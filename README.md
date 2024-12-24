@@ -27,6 +27,7 @@ The following Python libraries are required to run the notebook:
 - **Marital Status :** `Unmarried women` represent the largest segment of buyers.
 
 ## Visualizations
+
 - **Distribution of Gender**
 ![download](https://github.com/user-attachments/assets/49b72067-d5ec-4ddc-b5a9-d82e887dfb31)
 - **Spending patterns by Age Group**
